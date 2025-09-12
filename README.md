@@ -18,7 +18,7 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 ## 🛠️ Skills & Technologies
 
 ### 💻 Java Full Stack Development
-- Java, Spring Boot, Hibernate
+- Java, Basic Spring Boot frameWork
 - HTML, CSS
 - REST APIs, Microservices
 - MySQL, PostgreSQL
@@ -28,13 +28,17 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 - Selenium, JUnit, TestNG
 - Postman (API Testing), JMeter (Performance Testing)
 - Katalon Studio, Appium (Mobile Testing)
+- Android Studio
 - CI/CD: Jenkins, GitHub Actions
+
+- ### core skills
+- Agile project management
 
 ### ⚙️ Tools
 - IntelliJ IDEA, Eclipse, VS Code
 - Maven 
 - Git, GitHub
-- Docker
+  
 ---
 
 ## 📊 GitHub Stats
