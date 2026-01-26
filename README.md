@@ -59,6 +59,19 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)![VS Code](https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)![Agile](https://img.shields.io/badge/agile-%23009688.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-%236DB33F.svg?style=for-the-badge&logo=scrum&logoColor=white)
+
+
+<!-- ================= CONTRIBUTION ACTIVITY ================= -->
+<h2 align="center" style="color:#C71585;">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashkaja&bg_color=0d1117&color=FF69B4&line=FFA500&point=00f5ff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=avinashkaja&theme=dark&hide_border=true&ring=FF69B4&fire=FFA500&currStreakLabel=FF69B4" height="180"/>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
