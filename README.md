@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=FF69B4&center=true&vCenter=true&width=750&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=FFA500&center=true&vCenter=true&width=750&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
+
 
 
 
