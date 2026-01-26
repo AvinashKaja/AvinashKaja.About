@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=330&section=header&text=Avinash%20Kaja&fontSize=60&fontColor=EAEAEA&fontAlignY=45&stroke=000000&strokeWidth=1.4" alt="Dark 3D banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,100:0072ff&height=340&section=header&text=Avinash%20Kaja&fontSize=64&fontColor=ffffff&fontAlignY=45&stroke=000000&strokeWidth=1.6" alt="Cyber 3D banner" />
 </p>
+
 
 
 
