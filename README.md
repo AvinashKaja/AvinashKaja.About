@@ -160,6 +160,83 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 
 </div>
 
+<h2 align="center" style="color:#C71585;">🔄 Automation Delivery Flow</h2>
+
+<svg width="100%" height="140" viewBox="0 0 900 140">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#FF69B4"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+  </defs>
+
+  <g fill="url(#grad)" font-size="14" font-weight="bold">
+    <rect x="20" y="50" rx="10" ry="10" width="150" height="40"/>
+    <text x="40" y="75" fill="black">Test Design</text>
+
+    <rect x="200" y="50" rx="10" ry="10" width="170" height="40"/>
+    <text x="215" y="75" fill="black">Automation Scripts</text>
+
+    <rect x="410" y="50" rx="10" ry="10" width="150" height="40"/>
+    <text x="430" y="75" fill="black">CI / CD</text>
+
+    <rect x="590" y="50" rx="10" ry="10" width="150" height="40"/>
+    <text x="610" y="75" fill="black">Reports</text>
+
+    <rect x="770" y="50" rx="10" ry="10" width="110" height="40"/>
+    <text x="785" y="75" fill="black">Release</text>
+  </g>
+</svg>
+
+<p align="center">Amazon • Shine • Doctor Appointment System</p>
+
+
+<h2 align="center">🗂 Featured Projects</h2>
+
+<div align="center">
+
+<div style="
+  width:80%;
+  background:#0d1117;
+  padding:20px;
+  margin:20px;
+  border-radius:16px;
+  box-shadow:0 0 15px rgba(255,105,180,0.3);
+  transition:0.3s;
+" onmouseover="this.style.boxShadow='0 0 30px rgba(0,245,255,0.9)'" 
+   onmouseout="this.style.boxShadow='0 0 15px rgba(255,105,180,0.3)'">
+
+<h3>🛒 Amazon Automation – Selenium</h3>
+<p>End-to-end regression automation covering checkout flows.</p>
+<p><b>Impact:</b> 🚀 80% automation → 60% manual effort reduced</p>
+<p><b>Tech:</b> Java, Selenium WebDriver</p>
+
+</div>
+
+<div style="
+  width:80%;
+  background:#0d1117;
+  padding:20px;
+  margin:20px;
+  border-radius:16px;
+  box-shadow:0 0 15px rgba(255,165,0,0.3);
+  transition:0.3s;
+" onmouseover="this.style.boxShadow='0 0 30px rgba(255,165,0,0.9)'"
+   onmouseout="this.style.boxShadow='0 0 15px rgba(255,165,0,0.3)'">
+
+<h3>💼 Shine Job Portal Automation</h3>
+<p>Automated login, job search, and application workflows.</p>
+<p><b>Focus:</b> Dynamic locators & real-world flows</p>
+<p><b>Tech:</b> Java, Selenium</p>
+
+</div>
+
+</div>
+
+
+
+
 
 ## 📬 Connect with Me
 
