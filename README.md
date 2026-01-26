@@ -5,6 +5,34 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
+<p align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="60">
+  <defs>
+    <linearGradient id="g">
+      <stop offset="0%" stop-color="#ff0000"/>
+      <stop offset="20%" stop-color="#ff7f00"/>
+      <stop offset="40%" stop-color="#ffff00"/>
+      <stop offset="60%" stop-color="#00ff00"/>
+      <stop offset="80%" stop-color="#0000ff"/>
+      <stop offset="100%" stop-color="#8f00ff"/>
+      <animateTransform
+        attributeName="gradientTransform"
+        type="translate"
+        from="0 0"
+        to="-750 0"
+        dur="6s"
+        repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="40" text-anchor="middle"
+        font-size="28" font-weight="bold"
+        fill="url(#g)">
+    Software Tester • QA Engineer • Java Full Stack Developer • Tech Enthusiast
+  </text>
+</svg>
+</p>
+
 
 <p align="center">
   🚀 Java Full Stack Developer | 🧪 Software Tester | | 💻 Software Engineer | 🚀  Associate Software Engineer |Tech Enthusiast  
