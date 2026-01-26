@@ -9,15 +9,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <p align="center">
   🚀 Java Full Stack Developer | 🧪 Software Tester | | 💻 Software Engineer | 🚀  Associate Software Engineer |Tech Enthusiast  
 </p>
@@ -72,11 +63,16 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=avinashkaja&theme=dark&hide_border=true&ring=FF69B4&fire=FFA500&currStreakLabel=FF69B4" height="180"/>
 </p>
 
+
+
+
+
+
+
+
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashkaja&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkaja&layout=compact&theme=radical" alt="Top Languages" />
