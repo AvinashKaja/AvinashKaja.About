@@ -1,8 +1,8 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F5FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+Playwright;API+Testing+%7C+CI%2FCD+%7C+Jenkins;Quality+Through+Automation" />
+<<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
->
+
 
 
 
