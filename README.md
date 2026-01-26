@@ -64,17 +64,17 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 
 
 
+<!-- GitHub Stats Title -->
+<h2 align="center" style="color:#C71585;">📊 GitHub Stats</h2>
 
-
-
-
-
-## 📊 GitHub Stats
-
-
+<!-- Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkaja&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkaja&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=ffffff&icon_color=FFA500"
+    height="180"
+  />
 </p>
+>
 
 ---
 
