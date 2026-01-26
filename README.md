@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:4A00E0,100:8E2DE2&height=360&section=header&text=Avinash%20Kaja&fontSize=64&fontColor=00f5ff&fontAlignY=45&stroke=00f5ff&strokeWidth=1.6&animation=fadeIn" alt="Neon 3D Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F5FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Java+%7C+Selenium+%7C+Playwright;API+Testing+%7C+CI%2FCD+%7C+Jenkins;Quality+Through+Automation" />
 </p>
+>
 
 
 
