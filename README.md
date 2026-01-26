@@ -30,6 +30,18 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Test%20Automation-80%25_Coverage-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Manual%20Effort-60%25_Reduced-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-5%2B-orange?style=for-the-badge" />
+</p>
+
+
+
+
+
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQL](https://img.shields.io/badge/sql-%23006699.svg?style=for-the-badge&logo=databricks&logoColor=white)![Selenium](https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)![Playwright](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)![REST Assured](https://img.shields.io/badge/REST%20Assured-25A162?style=for-the-badge&logo=swagger&logoColor=white)![Appium](https://img.shields.io/badge/appium-%2346C0F5.svg?style=for-the-badge&logo=appium&logoColor=white)![JUnit](https://img.shields.io/badge/junit5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)![TestNG](https://img.shields.io/badge/testng-%23FF6C37.svg?style=for-the-badge&logo=testng&logoColor=white)![JMeter](https://img.shields.io/badge/jmeter-%23D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white)![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
