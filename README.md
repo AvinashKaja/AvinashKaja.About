@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=250&section=header&text=Avinash%20Kaja&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,100:8E2DE2&height=260&section=header&text=Avinash%20Kaja&fontSize=52&fontColor=ffffff&fontAlignY=40&stroke=ffffff&strokeWidth=1" alt="3D banner" />
 </p>
+
 
 <p align="center">
   🚀 Java Full Stack Developer | 🧪 Software Tester | | 💻 Software Engineer | 🚀  Associate Software Engineer |Tech Enthusiast  
