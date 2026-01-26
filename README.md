@@ -1,5 +1,12 @@
 <!-- Header Banner -->
-<<p align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e0eafc,100:cfdef3&height=170&section=footer&text=Clean%20Code%20%7C%20Reliable%20Testing%20%7C%20Continuous%20Quality&fontSize=26&fontColor=2c3e50&stroke=ffffff&strokeWidth=1.2" alt="Glassmorphism Footer" />
+</p>
+
+
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=00F5FF&center=true&vCenter=true&width=750&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
 
