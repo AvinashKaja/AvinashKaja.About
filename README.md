@@ -49,36 +49,82 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 ---
 
 ## 📂 Featured Projects
-## 🚀 Projects (Click to Expand)
+<!-- PROJECT SECTION TITLE -->
+<h2 align="center">🚀 Projects</h2>
 
-<details>
-<summary>🛒 <b>Amazon Automation – Selenium</b></summary>
+<!-- ANIMATED PROJECT TITLES -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FFA500&center=true&vCenter=true&width=850&lines=Amazon+Automation+%E2%80%93+Selenium;Shine+Job+Portal+Automation;Doctor+Appointment+System;Real+World+Testing+Projects;More+Coming+Soon..." />
+</p>
 
-✔ End-to-end regression automation  
-✔ 80% coverage → 60% manual effort reduction  
-✔ Dynamic UI handling  
+<!-- PROJECT CARDS CONTAINER -->
+<div align="center">
 
-<b>Tech:</b> Java, Selenium  
-</details>
+  <!-- CARD 1 -->
+  <div style="
+      width: 80%;
+      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+      padding: 20px;
+      margin: 20px;
+      border-radius: 18px;
+      box-shadow: 0px 0px 20px rgba(0,255,255,0.3);
+      color: white;
+      transition: 0.3s;
+  " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+      <h3>🛒 Amazon Automation – Selenium</h3>
+      <p>End-to-end regression automation including login, search, add-to-cart, checkout. Automated ~80% test cases → reduced manual effort by 60%.</p>
+      <p><b>Tech:</b> Java, Selenium WebDriver</p>
+  </div>
 
-<details>
-<summary>💼 <b>Shine Job Portal Automation</b></summary>
+  <!-- CARD 2 -->
+  <div style="
+      width: 80%;
+      background: linear-gradient(135deg, #1f1c2c, #928dab);
+      padding: 20px;
+      margin: 20px;
+      border-radius: 18px;
+      box-shadow: 0px 0px 20px rgba(255,165,0,0.3);
+      color: white;
+      transition: 0.3s;
+  " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+      <h3>💼 Shine Job Portal Automation</h3>
+      <p>Automated job search, login & application workflows with dynamic locators. Real-world web app testing automation.</p>
+      <p><b>Tech:</b> Java, Selenium WebDriver</p>
+  </div>
 
-✔ Login, job search, application automation  
-✔ Real-world workflow validation  
+  <!-- CARD 3 -->
+  <div style="
+      width: 80%;
+      background: linear-gradient(135deg, #005C97, #363795);
+      padding: 20px;
+      margin: 20px;
+      border-radius: 18px;
+      box-shadow: 0px 0px 20px rgba(0,255,150,0.3);
+      color: white;
+      transition: 0.3s;
+  " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+      <h3>🏥 Online Doctor Appointment System</h3>
+      <p>REST API-based appointment booking system with MySQL backend. Fully validated API suite using Postman.</p>
+      <p><b>Tech:</b> Spring Boot, Java, MySQL, Postman</p>
+  </div>
 
-<b>Tech:</b> Java, Selenium  
-</details>
+  <!-- CARD 4 -->
+  <div style="
+      width: 80%;
+      background: linear-gradient(135deg, #000428, #004e92);
+      padding: 20px;
+      margin: 20px;
+      border-radius: 18px;
+      box-shadow: 0px 0px 20px rgba(255,255,255,0.2);
+      color: white;
+      transition: 0.3s;
+  " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+      <h3>🚧 Upcoming Projects</h3>
+      <p>Full-stack + Automation frameworks using Playwright, TypeScript, Selenium, REST APIs & CI/CD pipelines.</p>
+      <p><b>Tech:</b> Java, Selenium, Playwright, TypeScript, Postman</p>
+  </div>
 
-<details>
-<summary>🏥 <b>Doctor Appointment Booking System</b></summary>
-
-✔ REST APIs + Database integration  
-✔ API testing with Postman  
-
-<b>Tech:</b> Spring Boot, MySQL  
-</details>
-
+</div>
 
 
 ## 📬 Connect with Me
