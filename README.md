@@ -79,6 +79,73 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
   />
 </p>
 
+
+<h2 style="color:#C71585;">🚀 Tech Focus Meter</h2>
+
+<div style="width:80%;background:#0d1117;padding:20px;border-radius:16px;box-shadow:0 0 20px rgba(255,105,180,0.4);">
+
+<p>☕ Java</p>
+<div style="background:#333;border-radius:10px;">
+  <div style="width:70%;background:linear-gradient(90deg,#FFA500,#FF69B4);padding:8px;border-radius:10px;"></div>
+</div>
+
+<p>🌐 HTML / CSS</p>
+<div style="background:#333;border-radius:10px;">
+  <div style="width:30%;background:linear-gradient(90deg,#00f5ff,#4A00E0);padding:8px;border-radius:10px;"></div>
+</div>
+
+<p>⚡ JavaScript</p>
+<div style="background:#333;border-radius:10px;">
+  <div style="width:10%;background:linear-gradient(90deg,#f7df1e,#ff8c00);padding:8px;border-radius:10px;"></div>
+</div>
+
+</div>
+
+
+<h2 style="color:#C71585;">🧠 Language Distribution</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-69%25-FFA500?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-3%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS-1%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+
+<h2 align="center" style="color:#FF69B4;">⚡ Developer Radar</h2>
+
+<table align="center" style="border-collapse:collapse;background:#0d1117;border-radius:14px;overflow:hidden;">
+  <tr>
+    <th style="padding:12px;color:#FFA500;">Language</th>
+    <th style="padding:12px;color:#FFA500;">Usage</th>
+  </tr>
+  <tr>
+    <td style="padding:10px;color:white;">Java</td>
+    <td style="padding:10px;color:#00f5ff;">███████████ 69%</td>
+  </tr>
+  <tr>
+    <td style="padding:10px;color:white;">HTML</td>
+    <td style="padding:10px;color:#00f5ff;">███████ 25%</td>
+  </tr>
+  <tr>
+    <td style="padding:10px;color:white;">JavaScript</td>
+    <td style="padding:10px;color:#00f5ff;">██ 3%</td>
+  </tr>
+</table>
+
+
+<h2 style="color:#C71585;">📊 Language Snapshot</h2>
+
+<div style="background:rgba(255,255,255,0.05);backdrop-filter:blur(10px);padding:20px;border-radius:18px;width:70%;">
+  ☕ <b>Java</b> — 69% <br><br>
+  🌐 <b>HTML</b> — 25% <br><br>
+  ⚡ <b>JavaScript</b> — 3% <br><br>
+  🎨 <b>CSS</b> — 1%
+</div>
+
+
+
+
 ---
 
 ## 📂 Featured Projects
