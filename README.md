@@ -5,6 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
+</p>
+
 
 
 
