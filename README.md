@@ -192,52 +192,6 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 <p align="center">Amazon • Shine • Doctor Appointment System</p>
 
 
-<h2 align="center">🗂 Featured Projects</h2>
-
-<div align="center">
-
-<div style="
-  width:80%;
-  background:#0d1117;
-  padding:20px;
-  margin:20px;
-  border-radius:16px;
-  box-shadow:0 0 15px rgba(255,105,180,0.3);
-  transition:0.3s;
-" onmouseover="this.style.boxShadow='0 0 30px rgba(0,245,255,0.9)'" 
-   onmouseout="this.style.boxShadow='0 0 15px rgba(255,105,180,0.3)'">
-
-<h3>🛒 Amazon Automation – Selenium</h3>
-<p>End-to-end regression automation covering checkout flows.</p>
-<p><b>Impact:</b> 🚀 80% automation → 60% manual effort reduced</p>
-<p><b>Tech:</b> Java, Selenium WebDriver</p>
-
-</div>
-
-<div style="
-  width:80%;
-  background:#0d1117;
-  padding:20px;
-  margin:20px;
-  border-radius:16px;
-  box-shadow:0 0 15px rgba(255,165,0,0.3);
-  transition:0.3s;
-" onmouseover="this.style.boxShadow='0 0 30px rgba(255,165,0,0.9)'"
-   onmouseout="this.style.boxShadow='0 0 15px rgba(255,165,0,0.3)'">
-
-<h3>💼 Shine Job Portal Automation</h3>
-<p>Automated login, job search, and application workflows.</p>
-<p><b>Focus:</b> Dynamic locators & real-world flows</p>
-<p><b>Tech:</b> Java, Selenium</p>
-
-</div>
-
-</div>
-
-
-
-
-
 ## 📬 Connect with Me
 
 <p align="center">
