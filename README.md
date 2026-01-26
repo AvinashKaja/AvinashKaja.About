@@ -59,9 +59,7 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinashkaja&bg_color=0d1117&color=FF69B4&line=FFA500&point=00f5ff&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=avinashkaja&theme=dark&hide_border=true&ring=FF69B4&fire=FFA500&currStreakLabel=FF69B4" height="180"/>
-</p>
+
 
 
 
