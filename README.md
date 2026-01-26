@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:cfdef3,100:e0eafc&height=170&section=footer&text=Clean%20Code%20%7C%20Reliable%20Testing&fontSize=26&fontColor=2c3e50&stroke=ffffff&strokeWidth=1" alt="Glassmorphism 3D Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:4A00E0,100:8E2DE2&height=360&section=header&text=Avinash%20Kaja&fontSize=64&fontColor=00f5ff&fontAlignY=45&stroke=00f5ff&strokeWidth=1.6&animation=fadeIn" alt="Neon 3D Header" />
 </p>
+
 
 
 
