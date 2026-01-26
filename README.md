@@ -105,7 +105,7 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
       color: white;
       transition: 0.3s;
   " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-      <<p>🟢 <b>Level 1:</b> Amazon Automation – Selenium</p>
+      <<p>🟢 Amazon Automation – Selenium</p>
       <p>End-to-end regression automation including login, search, add-to-cart, checkout. Automated ~80% test cases → reduced manual effort by 60%.</p>
       <p><b>Tech:</b> Java, Selenium WebDriver</p>
   </div>
