@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:4A00E0,100:8E2DE2&height=360&section=header&text=Avinash%20Kaja&fontSize=64&fontColor=00f5ff&fontAlignY=45&stroke=00f5ff&strokeWidth=1.6&animation=fadeIn" alt="Neon 3D Header" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
-</p>
 <p align="center">
 <svg width="750" height="70">
   <text x="50%" y="45" text-anchor="middle"
