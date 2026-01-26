@@ -50,12 +50,32 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 
 ## 📂 Featured Projects
 
-| Project                                                       | Description                                                                                                                                                                                                                                                                                                                                            | Tech Stack                                                      |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------| |------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------------------------------------------------|
-| **Amazon Automation – Selenium**                              | Developed and executed end-to-end regression test scenarios including login, product search, add-to-cart |   and checkout flows. Achieved ~60% reduction in manual testing |effort by automating ~80% of regression test cases. Validated UI components using XPath and CSS selectors and performed repeated regression cycles for release stability. |   Java, Selenium WebDriver                                      |
-| **Shine Job Portal Automation – Selenium**                    | Automated login, job search, and job application workflows for a real-world job portal.                  | Validated search results using criteria such as role, location, and experience. Built reusable automation scripts for form validation, navigation flows, and confirmation messages using dynamic locators.                                 |  Java, Selenium WebDriver                                       |
-| **Online Doctor Appointment Booking System**                  | Built a full-stack appointment booking system to manage patient-doctor interactions including booking and cancelling appointments. Designed RESTful APIs and integrated     MySQL database. Tested APIs using Postman to ensure service reliability and correctness.                                                                                   |  Spring Boot, Java, MySQL, Postman, HTML, CSS                   |
-| 🚧 **Upcoming Automation & Full-Stack Projects**              | Stay tuned for real-world automation testing and full-stack development projects focused on scalable,    |  Java, Selenium, Playwright, Postman, TypeScript               |                                                                                                                                                                                                                  
+### 🛒 Amazon Automation – Selenium  
+🔗 **GitHub:** [View Repository](#)  
+- Automated end-to-end regression scenarios: login, search, cart, checkout  
+- 🚀 Automated ~80% regression → **60% reduction in manual effort**  
+- Validated dynamic UI elements using **XPath & CSS selectors**  
+- Executed repeated regression cycles before releases  
+**🛠 Tech:** Java, Selenium WebDriver  
+
+---
+
+### 💼 Shine Job Portal Automation – Selenium  
+🔗 **GitHub:** [View Repository](#)  
+- Automated login, job search, and application workflows  
+- Applied filters like **role, location, experience** to validate results  
+- Built reusable automation scripts using dynamic locators  
+**🛠 Tech:** Java, Selenium WebDriver  
+
+---
+
+### 🏥 Online Doctor Appointment Booking System  
+🔗 **GitHub:** [View Repository](#)  
+- Developed a full-stack appointment booking system  
+- Designed **RESTful APIs** and integrated **MySQL** database  
+- Tested APIs using **Postman** for reliability  
+**🛠 Tech:** Spring Boot, Java, MySQL, Postman, HTML, CSS  
+                 
 
 
 ## 📬 Connect with Me
