@@ -49,33 +49,36 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 ---
 
 ## 📂 Featured Projects
+## 🚀 Projects (Click to Expand)
 
-### 🛒 Amazon Automation – Selenium  
-🔗 **GitHub:** [View Repository](#)  
-- Automated end-to-end regression scenarios: login, search, cart, checkout  
-- 🚀 Automated ~80% regression → **60% reduction in manual effort**  
-- Validated dynamic UI elements using **XPath & CSS selectors**  
-- Executed repeated regression cycles before releases  
-**🛠 Tech:** Java, Selenium WebDriver  
+<details>
+<summary>🛒 <b>Amazon Automation – Selenium</b></summary>
 
----
+✔ End-to-end regression automation  
+✔ 80% coverage → 60% manual effort reduction  
+✔ Dynamic UI handling  
 
-### 💼 Shine Job Portal Automation – Selenium  
-🔗 **GitHub:** [View Repository](#)  
-- Automated login, job search, and application workflows  
-- Applied filters like **role, location, experience** to validate results  
-- Built reusable automation scripts using dynamic locators  
-**🛠 Tech:** Java, Selenium WebDriver  
+<b>Tech:</b> Java, Selenium  
+</details>
 
----
+<details>
+<summary>💼 <b>Shine Job Portal Automation</b></summary>
 
-### 🏥 Online Doctor Appointment Booking System  
-🔗 **GitHub:** [View Repository](#)  
-- Developed a full-stack appointment booking system  
-- Designed **RESTful APIs** and integrated **MySQL** database  
-- Tested APIs using **Postman** for reliability  
-**🛠 Tech:** Spring Boot, Java, MySQL, Postman, HTML, CSS  
-                 
+✔ Login, job search, application automation  
+✔ Real-world workflow validation  
+
+<b>Tech:</b> Java, Selenium  
+</details>
+
+<details>
+<summary>🏥 <b>Doctor Appointment Booking System</b></summary>
+
+✔ REST APIs + Database integration  
+✔ API testing with Postman  
+
+<b>Tech:</b> Spring Boot, MySQL  
+</details>
+
 
 
 ## 📬 Connect with Me
