@@ -4,31 +4,8 @@
 </p>
 
 <p align="center">
-<svg width="750" height="60" viewBox="0 0 750 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <text x="50%" y="40" text-anchor="middle"
-        font-size="28"
-        font-weight="bold"
-        fill="#FF69B4"
-        filter="url(#glow)">
-    <animate attributeName="opacity"
-             values="1;0.6;1"
-             dur="2s"
-             repeatCount="indefinite"/>
-    Software Tester • QA Engineer • Software Engineer • Java Full Stack Developer • Tech Enthusiast
-  </text>
-</svg>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
-
 
 
 
