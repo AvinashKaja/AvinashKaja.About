@@ -3,16 +3,40 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,50:4A00E0,100:8E2DE2&height=360&section=header&text=Avinash%20Kaja&fontSize=64&fontColor=00f5ff&fontAlignY=45&stroke=00f5ff&strokeWidth=1.6&animation=fadeIn" alt="Neon 3D Header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&color=FFA500&center=true&vCenter=true&width=750&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2200&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2300&color=00F5FF&center=true&vCenter=true&width=750&cursorColor=FF69B4&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
+</p>
+
+<p align="center">
+<svg width="750" height="60" viewBox="0 0 750 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="50%" y="40" text-anchor="middle"
+        font-size="28"
+        font-weight="bold"
+        fill="#FF69B4"
+        filter="url(#glow)">
+    <animate attributeName="opacity"
+             values="1;0.6;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+    Software Tester • QA Engineer • Software Engineer • Java Full Stack Developer • Tech Enthusiast
+  </text>
+</svg>
+</p>
 
 
 
