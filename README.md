@@ -84,7 +84,7 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
 
 
 <!-- PROJECT SECTION TITLE -->
-<h3> align="center">🚀 Projects</h3>
+<h3 align="center">🚀 Projects</h3>
 
 <!-- ANIMATED PROJECT TITLES -->
 <p align="center">
