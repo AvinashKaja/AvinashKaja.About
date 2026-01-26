@@ -29,7 +29,7 @@
 I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software Tester**. I love building robust backends, crafting clean frontends, and ensuring software quality through meticulous testing.
 
 ---
-<h2>🧪 My Testing Approach</h2>
+<h2 style="color:#C71585;">🧪 My Testing Approach</h2>
 
 <ul style="list-style: none; padding-left: 0;">
   <!-- Automation & Testing -->
