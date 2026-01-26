@@ -6,6 +6,21 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=1500&pause=300&color=FF00FF&center=true&vCenter=true&width=750&cursorColor=00FFFF&lines=Software+Tester;QA+Engineer;Software+Engineer;Java+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
+<p align="center">
+<svg width="750" height="70">
+  <text x="50%" y="45" text-anchor="middle"
+        font-size="28" font-weight="bold"
+        fill="#FF69B4">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; 0 -3; 0 0"
+      dur="1.5s"
+      repeatCount="indefinite"/>
+    Software Tester • QA Engineer • Java Full Stack Developer
+  </text>
+</svg>
+</p>
 
 
 
