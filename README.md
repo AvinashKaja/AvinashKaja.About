@@ -29,14 +29,25 @@
 I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software Tester**. I love building robust backends, crafting clean frontends, and ensuring software quality through meticulous testing.
 
 ---
+<h2>🧪 My Testing Approach</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Test%20Automation-80%25_Coverage-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Manual%20Effort-60%25_Reduced-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-5%2B-orange?style=for-the-badge" />
-</p>
+<ul style="list-style: none; padding-left: 0;">
+  <!-- Automation & Testing -->
+  <li>⚙️ <b>Business Flow Analysis</b> – Understand end-to-end application flow before automation</li>
+  <li>🔥 <b>Risk-Based Testing</b> – Prioritize high-risk, critical, and regression scenarios</li>
+  <li>🧩 <b>Framework Design</b> – Build reusable, maintainable automation frameworks (POM, utilities)</li>
+  <li>🔗 <b>End-to-End Validation</b> – Combine UI, API, and Database testing for complete coverage</li>
+  <li>🚀 <b>CI/CD Automation</b> – Integrate automated test suites into Jenkins pipelines</li>
+  <li>🤖 <b>Automation First Mindset</b> – Convert repetitive manual test cases into reliable automated scripts</li>
+  <li>📊 <b>Test Reporting</b> – Generate detailed execution reports for faster defect analysis</li>
 
-
+  <!-- Java Full Stack -->
+  <li>☕ <b>Core Java & OOP</b> – Strong understanding of OOP concepts, collections, and exception handling</li>
+  <li>🌐 <b>Backend Development</b> – Build RESTful APIs using Spring Boot and Java</li>
+  <li>🗄️ <b>Database Integration</b> – Design and interact with relational databases using SQL & JPA</li>
+  <li>🎨 <b>Frontend Development</b> – Develop responsive UI using HTML, CSS, JavaScript, and Thymeleaf</li>
+  <li>🔐 <b>Application Testing</b> – Validate backend services and full-stack flows using Postman & automation tools</li>
+</ul>
 
 
 
