@@ -74,7 +74,35 @@ I'm **Avinash Kaja**, a passionate **Java Full Stack Developer** and **Software 
     height="180"
   />
 </p>
->
+
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=avinashkaja&show_icons=true&theme=radical&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkaja&layout=compact&theme=radical&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkaja&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff"
+    height="180"
+  />
+</p>
+
+
+<h2 align="center" style="color:#C71585;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashkaja&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkaja&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+
 
 ---
 
